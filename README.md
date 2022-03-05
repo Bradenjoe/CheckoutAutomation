@@ -1,4 +1,4 @@
-# Everly Health Sr. QA Engineer Assignment
+# Sr. QA Engineer Assignment
 
 ## PAGE OBJECTS
 
